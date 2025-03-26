@@ -11,4 +11,4 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Run Scorecard
-        uses: ossf/scorecard-action@v1  # Use v1 if v2 fails
+        uses: ossf/scorecard-action@v1 
